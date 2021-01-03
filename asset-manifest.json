@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/robo-monster-rolodex/static/css/main.8c0427df.chunk.css",
+    "main.js": "/robo-monster-rolodex/static/js/main.8e31aa03.chunk.js",
+    "main.js.map": "/robo-monster-rolodex/static/js/main.8e31aa03.chunk.js.map",
+    "runtime-main.js": "/robo-monster-rolodex/static/js/runtime-main.99f549c3.js",
+    "runtime-main.js.map": "/robo-monster-rolodex/static/js/runtime-main.99f549c3.js.map",
+    "static/js/2.ca4005ca.chunk.js": "/robo-monster-rolodex/static/js/2.ca4005ca.chunk.js",
+    "static/js/2.ca4005ca.chunk.js.map": "/robo-monster-rolodex/static/js/2.ca4005ca.chunk.js.map",
+    "static/js/3.e88562ec.chunk.js": "/robo-monster-rolodex/static/js/3.e88562ec.chunk.js",
+    "static/js/3.e88562ec.chunk.js.map": "/robo-monster-rolodex/static/js/3.e88562ec.chunk.js.map",
+    "index.html": "/robo-monster-rolodex/index.html",
+    "static/css/main.8c0427df.chunk.css.map": "/robo-monster-rolodex/static/css/main.8c0427df.chunk.css.map",
+    "static/js/2.ca4005ca.chunk.js.LICENSE.txt": "/robo-monster-rolodex/static/js/2.ca4005ca.chunk.js.LICENSE.txt",
+    "static/media/shraddha-pic.5ffa5723.png": "/robo-monster-rolodex/static/media/shraddha-pic.5ffa5723.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99f549c3.js",
+    "static/js/2.ca4005ca.chunk.js",
+    "static/css/main.8c0427df.chunk.css",
+    "static/js/main.8e31aa03.chunk.js"
+  ]
+}
